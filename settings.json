@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Weza_the_kolega.aternos.me:64272",
+    "ip": "Weza_the_kolega.aternos.me",
     "port": 64272,
     "version": "",
     "try-creative": false
