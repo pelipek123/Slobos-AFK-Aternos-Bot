@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Weza_the_kolega.aternos.me:64272",
+    "port":  64272,
     "version": "",
     "try-creative": false
   },
